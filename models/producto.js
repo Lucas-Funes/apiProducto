@@ -25,4 +25,4 @@ const ProductoSchema = Schema({
 })
 
 
-module.exports = model('Producto', ProductosSchema);
+module.exports = model('Producto', ProductoSchema);
